@@ -1,6 +1,10 @@
 Afile1
+<<<<<<< HEAD
 
 
 
 
 Add a line2
+=======
+Add a line1
+>>>>>>> upstream/master
