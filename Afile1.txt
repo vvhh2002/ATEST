@@ -1,3 +1,2 @@
 Afile1
-
 Add a line1
